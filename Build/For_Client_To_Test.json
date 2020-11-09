@@ -1,0 +1,16 @@
+{
+"companyName": "MoAraby",
+"productName": "Romain",
+"productVersion": "0.1",
+"dataUrl": "For_Client_To_Test.data.unityweb",
+"wasmCodeUrl": "For_Client_To_Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "For_Client_To_Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#0059BF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
